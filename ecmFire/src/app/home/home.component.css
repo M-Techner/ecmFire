@@ -29,14 +29,14 @@
 }
 
 .welcomeMessage {
-    margin-top: 10%;
+    margin-top: 12%;
     margin-bottom: 3%;
 }
 
 
-.spacer {
+/* .spacer {
     visibility: hidden;
-}
+} */
 /* .CTA {
     margin-top: 5%;
 } */
@@ -47,7 +47,8 @@
 
 .carousel-inner > .carousel-item > .d-block {
     margin: auto;
-    padding-bottom: 10%;
+    margin-bottom: 20%;
+    /* padding-bottom: 10%; */
     /* max-height: auto;
     max-width: auto; */
 }
