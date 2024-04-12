@@ -2,6 +2,8 @@
 .ECM{
     font-family: 'Montserrat', sans-serif, bold;
     text-align:center;
+    font-size: 30px; 
+    /* font-size-adjust: 0.5; */
     /* margin: 5rem 0 5rem 0; */
 }
 
@@ -18,22 +20,26 @@
     color: #000000;
 }
 
-.landingContainer {
-    margin-bottom: 5%;
-}
+/* .landingContainer {
+    margin-bottom: 5%; */
+/* } */
 
 .welcome-text {
     line-height: 2;
 }
 
 .welcomeMessage {
-    margin-top: 3%;
+    margin-top: 10%;
     margin-bottom: 3%;
 }
 
-.CTA {
-    margin-top: 5%;
+
+.spacer {
+    visibility: hidden;
 }
+/* .CTA {
+    margin-top: 5%;
+} */
 
 /* .carousel-inner > .carousel-item > .d-block {
     margin: auto;
@@ -49,8 +55,7 @@
 .hero { 
     background-image: url('/assets/hero.jpeg');
     background-size: cover cover;
-    min-height: 650px;
-
+    max-height: 575px;
     background-attachment: fixed;
     background-position: center;
     background-position-y: 6rem;
