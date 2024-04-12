@@ -64,9 +64,10 @@
     background-repeat: no-repeat;
     /* background-size: cover; */
     opacity: .7;
+    /* max-width: auto; */
+    /* max-height: 100%; */
     /* margin: -8px 0 0 -6px; */
     /* margin-top: auto; */
-
 } 
 
 .viewing {
