@@ -6,8 +6,8 @@
 }
 
 .img-responsive {
-    max-width: 125%;
-    max-height: 75%;
+    max-width: auto;
+    max-height: 100%;
     /* width: 100%;
     height: auto; 
     object-fit: cover; */
@@ -42,8 +42,8 @@
 .carousel-inner > .carousel-item > .d-block {
     margin: auto;
     padding-bottom: 10%;
-    max-height: auto;
-    max-width: auto;
+    /* max-height: auto;
+    max-width: auto; */
 }
 
 .hero { 
